@@ -1,0 +1,192 @@
+2022-11-05 17:12:15.384 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket or infant tickets more than adult tickets
+2022-11-05 17:12:15.416 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket or infant tickets more than adult tickets
+2022-11-05 17:12:15.416 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 17:12:15.500 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 17:12:15.500 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 17:28:08.800 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket or infant tickets more than adult tickets
+2022-11-05 17:28:08.815 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket or infant tickets more than adult tickets
+2022-11-05 17:28:08.815 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 17:28:08.822 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 17:28:08.822 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 18:07:37.343 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 18:07:37.343 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket present in the request
+2022-11-05 18:07:37.343 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 18:07:37.343 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 18:07:37.359 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 18:09:26.589 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 18:09:26.604 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket present in the request
+2022-11-05 18:09:26.604 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 18:09:26.604 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 18:09:26.617 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 18:10:34.271 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 18:10:34.287 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 18:10:59.682 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 18:10:59.682 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 18:11:01.449 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 18:11:01.449 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket present in the request
+2022-11-05 18:11:01.449 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 18:11:01.449 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 18:11:01.465 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 18:15:44.354 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 4: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 18:15:44.369 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:15:44.369 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 18:15:44.369 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 3: [TicketTypeRequest(noOfTickets=0, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 18:15:44.369 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket present in the request
+2022-11-05 18:15:44.369 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 2: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 18:15:44.369 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:15:44.369 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 18:15:44.369 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 1: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=1, type=CHILD), TicketTypeRequest(noOfTickets=9, type=INFANT)]
+2022-11-05 18:15:44.369 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:15:44.369 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 10
+2022-11-05 18:15:44.369 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 1
+2022-11-05 18:15:44.369 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 0
+2022-11-05 18:15:44.369 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 18:15:44.369 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 18:34:59.097 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 2: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 18:34:59.097 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:34:59.097 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 18:35:12.561 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 2: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 18:35:12.561 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:35:12.567 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 18:39:36.457 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 4: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 18:39:36.457 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:39:36.457 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 18:39:36.473 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 2: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 18:39:36.473 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:39:36.473 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 18:39:36.473 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 1: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=1, type=CHILD), TicketTypeRequest(noOfTickets=9, type=INFANT)]
+2022-11-05 18:39:36.473 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:39:36.473 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 10
+2022-11-05 18:39:36.473 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 1
+2022-11-05 18:39:36.473 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 0
+2022-11-05 18:39:36.473 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 18:39:36.473 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 18:40:27.086 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 4: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 18:40:27.093 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:40:27.093 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 18:40:27.093 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 3: [TicketTypeRequest(noOfTickets=0, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 18:40:27.093 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket present in the request
+2022-11-05 18:40:27.093 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 2: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 18:40:27.093 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:40:27.093 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 18:40:27.093 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 1: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=1, type=CHILD), TicketTypeRequest(noOfTickets=9, type=INFANT)]
+2022-11-05 18:40:27.093 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 18:40:27.093 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 10
+2022-11-05 18:40:27.093 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 1
+2022-11-05 18:40:27.093 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 0
+2022-11-05 18:40:27.093 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 18:40:27.108 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 18:42:32.521 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: null
+2022-11-05 18:58:20.292 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: null
+2022-11-05 18:58:40.716 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: [null, null]
+2022-11-05 18:59:52.055 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: [null, null]
+2022-11-05 19:04:05.712 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: [TicketTypeRequest(noOfTickets=5, type=ADULT), null]
+2022-11-05 19:04:05.712 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 19:14:41.564 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 4: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 19:14:41.564 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 19:14:41.580 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 19:14:41.580 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: [TicketTypeRequest(noOfTickets=5, type=ADULT), null]
+2022-11-05 19:14:41.580 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 19:14:41.580 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 5
+2022-11-05 19:14:41.580 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 100
+2022-11-05 19:14:41.580 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 5
+2022-11-05 19:14:41.595 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 3: [TicketTypeRequest(noOfTickets=0, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 19:14:41.595 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket present in the request
+2022-11-05 19:14:41.595 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 2: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 19:14:41.595 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 19:14:41.595 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 19:14:41.595 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 1: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=1, type=CHILD), TicketTypeRequest(noOfTickets=9, type=INFANT)]
+2022-11-05 19:14:41.595 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 19:14:41.595 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 10
+2022-11-05 19:14:41.595 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 1
+2022-11-05 19:14:41.595 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 0
+2022-11-05 19:14:41.595 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 19:14:41.595 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 19:16:17.325 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: [TicketTypeRequest(noOfTickets=5, type=ADULT), null]
+2022-11-05 19:18:17.844 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 19:18:17.844 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 5
+2022-11-05 19:18:17.844 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 100
+2022-11-05 19:18:17.852 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 5
+2022-11-05 19:18:23.471 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: [null, null]
+2022-11-05 19:28:15.981 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 0: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD)]
+2022-11-05 19:28:15.981 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Invalid account Id
+2022-11-05 19:28:38.048 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: null
+2022-11-05 19:37:26.744 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: null
+2022-11-05 19:37:26.744 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Ticket type requests is null
+2022-11-05 19:37:49.435 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: [null, null, null]
+2022-11-05 19:39:03.337 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 4: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 19:39:03.337 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 19:39:03.337 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 19:39:03.337 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 0: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD)]
+2022-11-05 19:39:03.337 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Invalid account Id
+2022-11-05 19:39:03.337 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: null
+2022-11-05 19:39:03.353 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Ticket type requests is null
+2022-11-05 19:39:03.353 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 3: [TicketTypeRequest(noOfTickets=0, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 19:39:03.353 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket present in the request
+2022-11-05 19:39:03.353 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 2: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 19:39:03.353 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 19:39:03.353 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 19:39:03.353 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 1: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=1, type=CHILD), TicketTypeRequest(noOfTickets=9, type=INFANT)]
+2022-11-05 19:39:03.353 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 19:39:03.353 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 10
+2022-11-05 19:39:03.353 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 1
+2022-11-05 19:39:03.353 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 0
+2022-11-05 19:39:03.353 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 19:39:03.353 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 20:30:04.090 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 4: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 20:30:04.098 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 20:30:04.099 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 20:30:04.106 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 0: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD)]
+2022-11-05 20:30:04.108 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Invalid account Id
+2022-11-05 20:30:04.112 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: null
+2022-11-05 20:30:04.113 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Ticket type requests is null
+2022-11-05 20:30:04.118 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 3: [TicketTypeRequest(noOfTickets=0, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 20:30:04.119 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket present in the request
+2022-11-05 20:30:04.122 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 2: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 20:30:04.122 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 20:30:04.123 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 20:30:04.126 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 1: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=1, type=CHILD), TicketTypeRequest(noOfTickets=9, type=INFANT)]
+2022-11-05 20:30:04.127 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 20:30:04.129 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 10
+2022-11-05 20:30:04.129 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 1
+2022-11-05 20:30:04.130 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 0
+2022-11-05 20:30:04.130 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 20:30:04.143 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 20:31:02.800 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 4: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 20:31:02.809 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 20:31:02.810 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 20:31:02.820 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 0: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD)]
+2022-11-05 20:31:02.822 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Invalid account Id
+2022-11-05 20:31:02.831 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: null
+2022-11-05 20:31:02.831 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Ticket type requests is null
+2022-11-05 20:31:02.835 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 3: [TicketTypeRequest(noOfTickets=0, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 20:31:02.837 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket present in the request
+2022-11-05 20:31:02.842 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 2: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 20:31:02.843 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 20:31:02.844 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 20:31:02.849 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 1: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=1, type=CHILD), TicketTypeRequest(noOfTickets=9, type=INFANT)]
+2022-11-05 20:31:02.850 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 20:31:02.853 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 10
+2022-11-05 20:31:02.855 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 1
+2022-11-05 20:31:02.855 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 0
+2022-11-05 20:31:02.856 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 20:31:02.880 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
+2022-11-05 20:36:50.063 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 4: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 20:36:50.077 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 20:36:50.077 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Infant tickets more than adult tickets
+2022-11-05 20:36:50.083 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 0: [TicketTypeRequest(noOfTickets=5, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD)]
+2022-11-05 20:36:50.083 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Invalid account Id
+2022-11-05 20:36:50.086 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 5: null
+2022-11-05 20:36:50.087 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Ticket type requests is null
+2022-11-05 20:36:50.090 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 3: [TicketTypeRequest(noOfTickets=0, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 20:36:50.090 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - No adult ticket present in the request
+2022-11-05 20:36:50.093 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 2: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=5, type=CHILD), TicketTypeRequest(noOfTickets=6, type=INFANT)]
+2022-11-05 20:36:50.094 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 20:36:50.095 [main] ERROR uk.gov.dwp.uc.pairtest.TicketServiceImpl - Max no of ticket purchase limit 20 exceeded
+2022-11-05 20:36:50.103 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Purchase ticket request for account Id 1: [TicketTypeRequest(noOfTickets=10, type=ADULT), TicketTypeRequest(noOfTickets=1, type=CHILD), TicketTypeRequest(noOfTickets=9, type=INFANT)]
+2022-11-05 20:36:50.103 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - Adult ticket present in the request
+2022-11-05 20:36:50.106 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 10
+2022-11-05 20:36:50.107 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 1
+2022-11-05 20:36:50.108 [main] DEBUG uk.gov.dwp.uc.pairtest.TicketServiceImpl - seats to allocate per ticket type request 0
+2022-11-05 20:36:50.108 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total amount to pay 210
+2022-11-05 20:36:50.128 [main] INFO  uk.gov.dwp.uc.pairtest.TicketServiceImpl - total seats to allocate 11
